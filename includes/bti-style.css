@@ -1,0 +1,8 @@
+.bti79_info_div{margin-top:50px;font-size:18px;line-height:24px;}
+.bti79_bordered_div{border:1px solid #ccc;margin-top:50px;padding:20px;display:block;}
+.bti79_stats_div{font-size:14px;display:inline-block;}
+.bti79_btn{display:inline-block !important;position:relative;bottom:3px;left:5px;}
+.bti79_red{font-size:14px;color:#ff0000;}
+.bti79_flex{display:flex;align-content:center;}
+.bti79_span{display:inline-block;vertical-align:middle;align-self:center;padding-left:10px;}
+.bti79_textarea{margin-top:5px;height:100px;width:360px;}
